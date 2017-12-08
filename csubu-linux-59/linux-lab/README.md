@@ -1,7 +1,7 @@
 # linux-lab
 
-> ผู้พัฒนาโครงการ :Littichai  Buddaken
-> รหัสนักศึกษา :59110440354
+> ผู้พัฒนาโครงการ :Montree Norasing
+> รหัสนักศึกษา :59110440338
 
 ## จุดประสงค์
 > ฝึกใช้ python ทำ CLI โปรแกรม ตามแบบ githubavatar
